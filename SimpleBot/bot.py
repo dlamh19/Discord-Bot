@@ -91,4 +91,4 @@ async def _Stinky(ctx):
 
 client.load_extension("cogs.musicBot")
 client.load_extension("cogs.imageBot")
-client.run("NzM3Mzk1NDYwMDc1MDI4NTgw.Xx8vCQ.P_6MzUp2FuKb8KvYYpP5Y6V3tC4")
+client.run("TOKEN")
